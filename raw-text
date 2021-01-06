@@ -1,0 +1,53 @@
+cd ..  = go back to folder
+cd= 	<folderName> go inside specific folder
+pwd=  	print current directly full path
+cat= 	See file content
+vi   	
+
+
+git fjdlksj klfkfjdskjfksdjf
+
+git version
+
+git clone https://github.com/mvp1/Session-1.git
+
+git status 
+
+git add <fileName>
+git commit -m "addition functionality added in calculator"
+git push.
+
+
+
+
+--working---
+git status 
+
+---staging----
+git add
+git commit 
+
+
+---remote----
+git push 
+
+
+create account on github.com
+create repository on github.com
+install git bash (in local windos machine)
+clone repository in your local computer
+add any 2 java files in to repository 
+practice command 
+	git status
+	git add
+	git commit
+	git diff
+	git push 
+
+
+
+
+
+
+
+
