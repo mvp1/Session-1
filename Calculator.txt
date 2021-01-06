@@ -1,1 +1,2 @@
 This file contains info about calculator use.
+This is calculator software user manual
